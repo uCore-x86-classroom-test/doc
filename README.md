@@ -1,6 +1,6 @@
 # uCore OS实验指导书和源码网址 (2020)
 
-- [ucore实验指导书](https://chyyuu.gitbooks.io/ucore_os_docs/content/)
+- [ucore实验指导书](https://https://cl0.gitbook.io/untitled-1/content/)
 - [ucore labs 1-8 源码和参考答案 ](https://github.com/chyyuu/ucore_lab)
 - [os tutorial lab](https://github.com/chyyuu/os_tutorial_lab)
 
@@ -24,7 +24,7 @@
   - **学至于行之而止矣**--请在实验中体会操作系统的精髓
   - **打通任督二脉**--lab1和lab2比较困难，有些同学由于畏难而止步与此，很可惜。通过lab1和lab2后，对计算机原理中的中断、段页表机制、特权级等的理解会更深入，等会有等同于打通了任督二脉，后面的实验将一片坦途。
 
-> [实验指导书 on gitbook](https://chyyuu.gitbooks.io/ucore_os_docs/content/)中会存在一些bug，欢迎在在[piazza在线OS课程问答和交流区](https://piazza.com/tsinghua.edu.cn/spring2015/30240243x/home)提出问题或修改意见，会有赞和奖分！
+> [实验指导书 on gitbook](https://cl0.gitbook.io/untitled-1)中会存在一些bug，欢迎在在[piazza在线OS课程问答和交流区](https://piazza.com/tsinghua.edu.cn/spring2015/30240243x/home)提出问题或修改意见，会有赞和奖分！
 
 # 维护者
 - yuchen AT tsinghua.edu.cn
