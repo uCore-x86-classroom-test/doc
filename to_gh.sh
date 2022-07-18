@@ -1,5 +1,6 @@
 #!/bin/bash
-
+ 
+ 
 gitbook build .
 cp -rf _book/* ~/tmp/ucore_docs
 cd ~/tmp/ucore_docs
